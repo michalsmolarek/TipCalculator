@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oblicz napiwek</string>
+    <string name="enter_amount">Wpisz kwotę</string>
+    <string name="tip">Napiwek</string>
+    <string name="total">Suma</string>
+</resources>
